@@ -1,0 +1,25 @@
+.btn-week {
+    border: 1px solid black;
+    text-decoration: none;
+    background: ghostwhite;
+    color: black;
+    padding: 10px;
+    text-align: center;
+    width: 150px;
+    height: 40px;
+    cursor: pointer;
+    font-size: 18px;
+}
+
+.btn-week:hover {
+    background: lightgrey;
+}
+
+.btn-week-active {
+    background: dodgerblue;
+    color: black;
+}
+
+.btn-week-active:hover {
+    background: cornflowerblue;
+}

@@ -1,0 +1,4 @@
+.listOfHour {
+    display: flex;
+    flex-direction: column;
+}

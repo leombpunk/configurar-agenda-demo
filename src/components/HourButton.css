@@ -1,0 +1,25 @@
+.btn-hour {
+    border: 1px solid black;
+    text-decoration: none;
+    background: ghostwhite;
+    color: black;
+    padding: 10px;
+    text-align: center;
+    width: 150px;
+    height: 40px;
+    cursor: pointer;
+    font-size: 18px;
+}
+
+.btn-hour:hover {
+    background: lightgrey;
+}
+
+.btn-hour-active {
+    background: dodgerblue;
+    color: black;
+}
+
+.btn-hour-active:hover {
+    background: cornflowerblue;
+}
